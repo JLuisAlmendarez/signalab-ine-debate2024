@@ -1,4 +1,4 @@
-# Minería de Texto — Selección de Preguntas para el 1er Debate Presidencial INE 2024
+# Selección de Preguntas para el 1er Debate Presidencial INE 2024
 
 Cuadernos de código desarrollados como parte del equipo de **Signa_Lab ITESO**,
 para el proceso oficial de selección de preguntas ciudadanas del **1er Debate
